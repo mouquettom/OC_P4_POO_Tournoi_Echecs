@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d59c989-7129-4d1b-a031-0b877963e949" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/model/model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REF/OC_P4_POO_Tournoi_Echecs_V2.py" beforeDir="false" afterPath="$PROJECT_DIR$/REF/OC_P4_POO_Tournoi_Echecs_V2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
     &quot;Python.OC_P4_POO_Tournoi_Echecs.executor&quot;: &quot;Run&quot;,
     &quot;Python.OC_P4_POO_Tournoi_Echecs_V1.executor&quot;: &quot;Run&quot;,
     &quot;Python.OC_P4_POO_Tournoi_Echecs_V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
