@@ -71,8 +71,8 @@ class Tournoi:
         if len(self.joueurs_restants) < 2:
             raise ValueError("Pas assez de joueurs restants pour organiser un match.")
 
-        def tri_points_decroissant(joueur):
-            return -joueur.points
+        def tri_points_decroissant(joueurs):
+            return -joueurs.points
 
         self.joueurs_restants.sort(key=tri_points_decroissant)
 
